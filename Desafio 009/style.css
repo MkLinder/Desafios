@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(43, 41, 41);
+}
+
+main {
+    margin: auto;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
