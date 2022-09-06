@@ -36,8 +36,8 @@ a:hover {
 }
 
 section {
-    padding-top: 10hv;
-    padding-bottom: 10hv;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
     line-height: 2em;  /* Espaçamentos entre linhas */
     padding-left: 30px;
 }
